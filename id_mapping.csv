@@ -1,0 +1,308 @@
+SCHOOL,ID
+Abilene Christian,222178
+Air Force,128328
+Akron,200800
+Alabama,100751
+Alabama A&M,100654
+Alabama State,100724
+Albany,196060
+Alcorn State,175342
+American,131159
+Appalachian State,197869
+Arizona,104179
+Arizona State,104151
+Arkansas,106397
+Arkansas State,106458
+Arkansas-Little Rock,106245
+Auburn,100858
+Austin Peay,219602
+BYU,230038
+Ball State,150136
+Baylor,223232
+Belmont,219709
+Binghamton,196079
+Boise State,142115
+Boston College,164924
+Boston University,164988
+Bradley,143358
+Brown,217156
+Bucknell,211291
+Buffalo,196088
+Butler,150163
+Cal Poly,110422
+Cal State Bakersfield,110486
+Cal State Fullerton,110565
+Cal State Northridge,110608
+California,110635
+Campbell,198136
+Canisius,189705
+Central Connecticut State,128771
+Central Florida,132903
+Central Michigan,169248
+Charleston Southern,217688
+Chattanooga,221740
+Cincinnati,201885
+Clemson,217882
+Cleveland State,202134
+Coastal Carolina,218724
+Colgate,190099
+College of Charleston,217819
+Colorado,126614
+Colorado State,126818
+Coppin State,162283
+Cornell,190415
+Creighton,181002
+Davidson,198385
+Dayton,202480
+DePaul,144740
+Delaware,130943
+Delaware State,130934
+Detroit Mercy,169716
+Drake,153269
+Drexel,212054
+Duke,198419
+East Carolina,198464
+East Tennessee State,220075
+Eastern Illinois,144892
+Eastern Kentucky,156620
+Eastern Michigan,169798
+Eastern Washington,235097
+Evansville,150534
+FIU,133951
+Fairfield,129242
+Fairleigh Dickinson,184603
+Florida,134130
+Florida A&M,133650
+Florida Atlantic,133669
+Florida Gulf Coast,433660
+Florida State,134097
+Fordham,191241
+Fresno State,110556
+Gardner-Webb,198561
+George Mason,232186
+George Washington,131469
+Georgetown,131496
+Georgia,139959
+Georgia Southern,139931
+Georgia State,139940
+Georgia Tech,139755
+Gonzaga,235316
+Grand Canyon,104717
+Green Bay,dupe
+Hampton,232265
+Hartford,129525
+Harvard,166027
+Hawaii,141574
+Hofstra,191649
+Holy Cross,166124
+Houston,225511
+Howard,131520
+IUPUI,151111
+Idaho,142285
+Idaho State,142276
+Illinois,145637
+Illinois State,145813
+Illinois-Chicago,145600
+Indiana,151351
+Indiana State,151324
+Iona,191931
+Iowa,153658
+Iowa State,153603
+Jackson State,175856
+Jacksonville,134945
+Jacksonville State,101480
+James Madison,232423
+Kansas,155317
+Kansas State,155399
+Kent State,203517
+Kentucky,157085
+LIU Brooklyn,dupe
+LSU,159391
+La Salle,213367
+Lafayette,213385
+Lamar,226091
+Lehigh,213543
+Liberty,232557
+Lipscomb,219976
+Little Rock,106245
+Long Beach State,110583
+Long Island,192448
+Louisiana Tech,159647
+Louisiana-Lafayette,160658
+Louisiana-Monroe,159993
+Louisville,157289
+Loyola (MD),163046
+Loyola Marymount,117946
+Loyola-Chicago,146719
+Manhattan,192703
+Marist,192819
+Marquette,239105
+Marshall,237525
+Maryland,163286
+Massachusetts,166629
+McNeese State,159717
+Memphis,220862
+Memphis State,999
+Mercer,140447
+Miami (FL),135726
+Miami (OH),204024
+Michigan,170976
+Michigan State,171100
+Middle Tennessee State,220978
+Minnesota,174066
+Mississippi State,176080
+Mississippi Valley State,176044
+Missouri,178396
+Missouri State,179566
+Monmouth,185572
+Montana,180489
+Montana State,180179
+Morehead State,157386
+Morgan State,163453
+Mount St. Mary's,163462
+Murray State,157401
+NC State,199193
+Navy,164155
+Nebraska,181464
+Nevada,182290
+New Mexico,187985
+New Mexico State,188030
+New Orleans,159939
+Niagara,193973
+Nicholls State,159966
+Norfolk State,232937
+North Carolina,199120
+North Carolina A&T,199102
+North Carolina Central,199157
+North Dakota,200280
+North Dakota State,200332
+North Florida,136172
+North Texas,227216
+Northeastern,167358
+Northern Arizona,105330
+Northern Colorado,127741
+Northern Illinois,147703
+Northern Iowa,154095
+Northern Kentucky,157447
+Northwestern,147767
+Northwestern State,160038
+Notre Dame,152080
+Oakland,171571
+Ohio,204857
+Ohio State,204796
+Ohio Valley,conf
+Oklahoma,207500
+Oklahoma State,207388
+Old Dominion,232982
+Ole Miss,176017
+Oral Roberts,207582
+Oregon,209551
+Oregon State,209542
+Pacific,209612
+Penn,215062
+Penn State,214777
+Pepperdine,121150
+Pittsburgh,215293
+Portland,209825
+Portland State,209807
+Prairie View A&M,227526
+Princeton,186131
+Providence,217402
+Purdue,243780
+Radford,233277
+Rhode Island,217484
+Richmond,233374
+Rider,186283
+Robert Morris,215655
+Rutgers,186380
+SMU,228246
+Saint Francis (PA),215743
+Saint Joseph's,215770
+Saint Louis,179159
+Saint Mary's (Cal.),123554
+Saint Peter's,186432
+Sam Houston State,227881
+Samford,102049
+San Diego,122436
+San Diego State,122409
+San Francisco,122612
+San Jose State,122755
+Santa Clara,122931
+Seton Hall,186584
+Siena,195474
+South Alabama,102094
+South Carolina,218663
+South Carolina State,218733
+South Dakota State,219356
+South Florida,448840
+Southeast Missouri State,179557
+Southeastern Louisiana,160612
+Southern,160621
+Southern Illinois,149222
+Southern Miss,176372
+Southern Utah,230603
+St. Bonaventure,195164
+St. John's,195809
+Stanford,243744
+Stephen F. Austin,228431
+Stony Brook,196097
+Syracuse,196413
+TCU,228875
+Temple,216339
+Tennessee,221759
+Tennessee State,221838
+Texas,228778
+Texas A&M,228723
+Texas A&M-Corpus Christi,224147
+Texas Southern,229063
+Texas State,228459
+Texas Tech,229115
+Texas-Arlington,228769
+Towson,164076
+Troy,102368
+Tulane,160755
+Tulsa,207971
+UAB,100663
+UC Davis,110644
+UC Irvine,110653
+UC Santa Barbara,110705
+UCLA,110662
+UConn,129020
+UMBC,163268
+UNC Asheville,199111
+UNC Greensboro,199148
+UNC-Charlotte,199139
+UNC-Wilmington,199218
+UNLV,182281
+USC,123961
+UTEP,228796
+UTSA,229027
+UW-Green Bay,240277
+UW-Milwaukee,240453
+Utah,230764
+Utah State,230728
+VCU,234030
+Valparaiso,152600
+Vanderbilt,221999
+Vermont,231174
+Villanova,216597
+Virginia,234076
+Virginia Tech,233921
+Wagner,197197
+Wake Forest,199847
+Washington,236948
+Washington State,236939
+Weber State,230782
+West Virginia,238032
+Western Carolina,200004
+Western Kentucky,157951
+Western Michigan,172699
+Wichita State,156125
+Winthrop,218964
+Wisconsin,240444
+Wofford,218973
+Wright State,206604
+Wyoming,240727
+Xavier,206622
+Yale,130794
+Arkansas-Pine Bluff,106412
