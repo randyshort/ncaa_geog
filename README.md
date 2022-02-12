@@ -11,9 +11,9 @@ Python scipts:
 * requirements.txt: Lists Python packages needed to run the code
 
 Jupyter Notebooks:
-* (1) Consolidated Notebook: This notebook includes the same code as *1_consolidated_script.py* but with additional direction and commentary explaining the steps
+* (1) Consolidated Notebook: This notebook includes the same code as *1_consolidated_script.py* but with additional directions and commentary explaining the steps
 
 Supporting documents:
 * dedupe_mapping.json: Dictionary to consolidate duplicate NCAA team names (for example N. Carolina and North Carolina). Used to clean text scraped from 
-* id_mapping.csv: 
+* id_mapping.csv: Manually created list of school names scraped and cleaned from Wikipedia matched to the IDs listed in the NCES dataset. This 
 
